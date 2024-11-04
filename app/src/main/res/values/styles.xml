@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Tpamovfqj2324" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/background</item>
+        <item name="android:fontFamily">@font/lobster</item>
+    </style>
+
+</resources>
